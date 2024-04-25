@@ -1,0 +1,21 @@
+body {
+font-family: Georgia, "Times New Roman", Times, serif;
+margin: 20px;
+padding: 0px;
+background-color: #ececec;
+font-size: 17px;
+}
+
+fieldset {
+width: 220px;
+}
+
+a:hover {
+color:red;
+text-decoration: underline;
+}
+
+a {
+color:#373be1;
+text-decoration: none;
+}
